@@ -1,3 +1,3 @@
 def reverse_each_word(sentence1)
-  reverse_word(",")
+  reverse_word.join(",")
 end
